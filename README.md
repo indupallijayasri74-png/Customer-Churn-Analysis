@@ -433,9 +433,3 @@ Customer-Churn-Retention-Analytics/
 └── README.md
 ```
 
----
-
-# Author
-
-**indupalli jayasri **
----
