@@ -437,8 +437,5 @@ Customer-Churn-Retention-Analytics/
 
 # Author
 
-**Rippenpreet kaur**
-
-Aspiring Data Analyst with a focus on **Python, SQL, Excel, and Power BI**.
-
+**indupalli jayasri **
 ---
